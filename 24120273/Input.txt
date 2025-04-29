@@ -1,0 +1,5 @@
+init
+enqueue 10
+enqueue 20
+dequeue
+dequeue
